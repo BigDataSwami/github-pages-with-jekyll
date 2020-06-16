@@ -1,5 +1,5 @@
 ---
-title: New Blog
+title: "New Blog"
 date: 2020-06-16
 ---
 
